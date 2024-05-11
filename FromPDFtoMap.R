@@ -3,7 +3,7 @@ require(tidyverse)
 require(pdftools)
 
 # Definir la ubicación del archivo PDF
-QQ = "C:/Users/jucar/BBOC1342-Sam.pdf"
+QQ = "File/Path/"
 
 # Extraer el texto del PDF y dividirlo por líneas
 PDF = pdf_text(QQ) %>% str_split('\n')
