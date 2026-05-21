@@ -1,5 +1,5 @@
 ---
-title: "From Raster to Distance Raster in R 🌍📏️"
+title: "From Raster to Distance Raster in R"
 author: "Juan Carlos Rubio Polania, PhD"
 date: "2024-05-11"
 ---
