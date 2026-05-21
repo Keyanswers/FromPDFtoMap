@@ -1,15 +1,7 @@
----
+
 title: "From PDF to Georeferenced Map in R 🌍📄🗺️"
 author: "Juan Carlos Rubio Polania, PhD"
 date: "2024-05-11"
-output: github_document
----
-```{css, echo=FALSE}
-body {
-# font-family: "Times New Roman";
-  text-align: justify;
-}
-```
 
 ## Overview
 
@@ -249,6 +241,12 @@ This workflow can be useful for:
 # License
 
 This project is licensed under the MIT License.
+
+---
+
+# Author
+
+Juan Carlos Rubio Polania, PhD
 
 ---
 
