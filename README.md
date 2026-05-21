@@ -1,7 +1,8 @@
-
+---
 title: "From PDF to Georeferenced Map in R 🌍📄🗺️"
 author: "Juan Carlos Rubio Polania, PhD"
 date: "2024-05-11"
+---
 
 ## Overview
 
@@ -247,9 +248,6 @@ This project is licensed under the MIT License.
 # Author
 
 Juan Carlos Rubio Polania, PhD
-
----
-
 # Author
 
 Juan Carlos Rubio Polania, PhD
